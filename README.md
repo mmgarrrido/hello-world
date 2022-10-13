@@ -1,3 +1,3 @@
 # hello-world
 Pimer proyecto de github
-Estoy editand el fichero de la rama readme
+Estoy editando el fichero de la rama readme
